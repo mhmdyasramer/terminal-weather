@@ -13,13 +13,13 @@ NPM packages:
 - terminal-image
 - got
 
-##Demo
-[demo](demo.gif)
+# Demo
+![demo](demo.gif)
 
-#Usage
+# Usage
 clone the repo to your machine then run "npm install"
 
-#Build
+# Build
 If you want to build to use the binary version,
 consider installing "pkg" npm package and then run "pkg index.js"
 
