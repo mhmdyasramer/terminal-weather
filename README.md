@@ -17,7 +17,7 @@ NPM packages:
 ![demo](demo.gif)
 
 # Usage
-clone the repo to your machine then run "npm install"
+Clone the repo to your machine then run "npm install"
 
 # Build
 If you want to build to use the binary version,
